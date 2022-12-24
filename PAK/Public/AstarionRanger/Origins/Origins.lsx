@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="600"/>
+    <region id="Origins">
+        <node id="root">
+            <children>
+                <node id="Origin">
+                    <attribute id="AppearanceLocked" type="bool" value="true"/>
+                    <attribute id="AvailableInCharacterCreation" type="uint8" value="0"/>
+                    <attribute id="BackgroundUUID" type="guid" value="e8c84134-5e91-4ecc-881a-efc47680129b"/>
+                    <attribute id="ClassUUID" type="guid" value="36be18ba-23db-4dff-bfa6-ae105ce43144"/>
+                    <attribute id="Description" type="FixedString" value="Gustav_Origins_New_Stat_1_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="Gustav_Origins_New_Stat_1_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="GlobalTemplate" type="guid" value="c7c13742-bacd-460a-8f65-f864fe41f255"/>
+                    <attribute id="Name" type="FixedString" value="Astarion"/>
+                    <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
+                    <attribute id="RaceUUID" type="guid" value="f4792c5f-8740-4f22-b77d-5df1e5753c46"/>
+                    <attribute id="SubClassUUID" type="guid" value="0aa1cff9-c45f-4d00-a95b-99a7aa96dd06"/>
+                    <attribute id="UUID" type="guid" value="3780c689-d903-41c2-bf64-1e6ec6a8e1e5"/>
+                    <attribute id="Unique" type="bool" value="true"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="9270997a-8af5-4fb1-9cf3-26c515878d4b"/>
+                    <children>
+                        <node id="AppearanceTags">
+                            <attribute id="Object" type="guid" value="23a46e79-e73c-4043-940f-cb0aace9ab2e"/>
+                        </node>
+                        <node id="ReallyTags">
+                            <attribute id="Object" type="guid" value="ffd08582-7396-4cac-bcd4-8f9cd0fd8ef3"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
