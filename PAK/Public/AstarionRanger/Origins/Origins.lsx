@@ -14,7 +14,7 @@
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="GlobalTemplate" type="guid" value="c7c13742-bacd-460a-8f65-f864fe41f255"/>
                     <attribute id="Name" type="FixedString" value="Astarion"/>
-                    <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
+                    <attribute id="Passives" type="LSString" value="DeathSavingThrows;FavoredEnemy_BountyHunter;NaturalExplorer_UrbanTracker"/>
                     <attribute id="RaceUUID" type="guid" value="f4792c5f-8740-4f22-b77d-5df1e5753c46"/>
                     <attribute id="SubClassUUID" type="guid" value="0aa1cff9-c45f-4d00-a95b-99a7aa96dd06"/>
                     <attribute id="UUID" type="guid" value="3780c689-d903-41c2-bf64-1e6ec6a8e1e5"/>
